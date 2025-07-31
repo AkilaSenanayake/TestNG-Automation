@@ -2,7 +2,7 @@ package testNG;
 
 import org.testng.annotations.Test;
 
-public class GroupTest {
+public class GroupTest__3 {
 
     // S = Smoke testing
     // R = Regression testing

@@ -2,7 +2,7 @@ package testNG;
 
 import org.testng.annotations.*;
 
-public class AnnotationExample {
+public class Annotation__7 {
     @Test
     public void test1() {
         System.out.println("Im test 1");

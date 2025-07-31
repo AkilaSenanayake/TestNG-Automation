@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
-public class DependsOnTest {
+public class DependsOnTest__2 {
 
     @Test()
     public void oLevel(){

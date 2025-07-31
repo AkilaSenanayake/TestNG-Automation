@@ -2,7 +2,7 @@ package testNG;
 
 import org.testng.annotations.Test;
 
-public class PriorityTest {
+public class PriorityTest__1 {
 
     @Test(priority = 0)
     public void testLogin(){

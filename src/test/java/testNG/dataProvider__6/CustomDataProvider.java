@@ -1,4 +1,4 @@
-package testNG.dataProvider;
+package testNG.dataProvider__6;
 
 import org.testng.annotations.DataProvider;
 

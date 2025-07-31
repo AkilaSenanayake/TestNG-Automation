@@ -1,4 +1,4 @@
-package testNG.parameter;
+package testNG.parameter__5;
 
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;

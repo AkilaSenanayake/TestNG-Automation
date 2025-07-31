@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class ParallelTest {
+public class ParallelTest__8 {
 
     @Test(priority = 0)
     public void openGoogle(){
